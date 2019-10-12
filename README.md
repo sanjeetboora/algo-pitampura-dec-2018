@@ -1,7 +1,7 @@
 # algo-pitampura-dec-2018
 course repo for algo++ batch with doubt classes
 
-Lecture #1
+Lecture #1 (Recursion)
 - Birthday Paradox
 - DNF Sort in a single pass
 - Merge 2 sorted arrays
